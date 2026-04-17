@@ -9,3 +9,4 @@ host-suffix,n0vadesktop.com,direct
 host-suffix,starrails.com,direct
 host-suffix,themisweeps.com,direct
 host-suffix,yuanshen.com,direct
+ip-cidr, 47.123.65.30/24, direct
