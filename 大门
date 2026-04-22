@@ -1,0 +1,8 @@
+host, app.studiotv.net, Gate
+host, api-normal-g1.studiotv.net, Gate
+host, app.smartappnet.net, Gate
+host, api.freshmarketpage.com, Gate
+host, analytics.adjust.com, Gate
+host-keyword, freshmarkethome, Gate
+host-keyword, gposts, Gate
+host-keyword, pushcloud, Gate
