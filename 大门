@@ -3,3 +3,4 @@ host, api-normal-g1.studiotv.net, Gate
 host, app.smartappnet.net, Gate
 host, api.freshmarketpage.com, Gate
 host, analytics.adjust.com, Gate
+host, snssdk.gatedata.org, Gate
