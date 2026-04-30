@@ -3,4 +3,5 @@ host-suffix, oklink.com
 host-suffix, okx.com
 host-keyword, web3.okx, OKX
 host-keyword, www.okx, OKX
-host, www.okx.com.cdn.cloudflare.net, OKX
+host, www.okx.com.cdn.cloudflare.net
+host, d1w1p0smpsoh5j.cloudfront.net
