@@ -4,3 +4,6 @@ host, app.smartappnet.net, Gate
 host, api.freshmarketpage.com, Gate
 host, analytics.adjust.com, Gate
 host, snssdk.gatedata.org, Gate
+host,www.gate.com
+host-keyword,gateio
+host-keyword,gateai
