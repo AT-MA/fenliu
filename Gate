@@ -1,9 +1,9 @@
-host, app.studiotv.net, Gate
-host, api-normal-g1.studiotv.net, Gate
-host, app.smartappnet.net, Gate
-host, api.freshmarketpage.com, Gate
-host, analytics.adjust.com, Gate
-host, snssdk.gatedata.org, Gate
+host,app.studiotv.net,Gate
+host,api-normal-g1.studiotv.net,Gate
+host,app.smartappnet.net,Gate
+host,api.freshmarketpage.com,Gate
+host,analytics.adjust.com,Gate
+host,snssdk.gatedata.org,Gate
 host-keyword,gateio
 host-keyword,gateai
 host-keyword,zudanje
