@@ -1,4 +1,4 @@
-# fenliu 分流规则
+# 分流
 
 自用的 Quantumult X 分流规则（`filter_remote` 远程规则）。
 
