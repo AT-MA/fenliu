@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Emby | Emby 媒体服务器 | 9 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/Emby) |
 | EmbyProxy | 需要走代理的 Emby 服务器 | 11 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/EmbyProxy) |
-| okx | OKX 交易所 | 8 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/okx) |
+| okx | OKX 交易所 | 14 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/okx) |
 | bybit | Bybit 交易所 | 9 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/bybit) |
 | bitget | Bitget 交易所 / BitKeep 钱包 | 4 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/bitget) |
 | Gate | Gate.io 交易所 | 11 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/Gate) |
