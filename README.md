@@ -13,6 +13,7 @@
 | bitget | Bitget 交易所 / BitKeep 钱包 | 4 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/bitget) |
 | Gate | Gate.io 交易所 | 11 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/Gate) |
 | mexc | MEXC 交易所 | 8 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/mexc) |
+| Weex | WEEX 交易所 | 3 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/Weex) |
 | 币市 | BitMart 交易所 | 6 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/%E5%B8%81%E5%B8%82) |
 | 米哈游 | 米哈游 / HoYoverse 游戏（直连） | 12 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/%E7%B1%B3%E5%93%88%E6%B8%B8) |
 
