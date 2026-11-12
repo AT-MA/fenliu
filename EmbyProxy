@@ -9,3 +9,6 @@ host,emby.dnscf.dpdns.org,Emby代理
 host-keyword,okemby,Emby代理
 host,server2.cn2gias.uk,Emby代理
 host-keyword,111660.xyz
+host-suffix,emby-media.suil.dpdns.org,Emby代理
+host-suffix,pre.cn2gias.uk,Emby代理
+host-keyword,dqx99999,Emby代理
