@@ -14,3 +14,4 @@
 - 不完整的域名（没有 .com 之类结尾）用 host-keyword，完整域名用 host-suffix
 - 不要重命名已有的规则文件，否则订阅链接会失效
 - 增删规则后同步更新 README.md 里的规则表（用途、规则数、订阅链接）
+- 推送到 main 后 Action 会把文件同步到 secret gist（订阅用 gist 链接），不同目录下不要放同名文件
