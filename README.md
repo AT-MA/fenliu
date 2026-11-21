@@ -6,7 +6,7 @@
 
 | 文件 | 用途 | 规则数 | 订阅链接 |
 | --- | --- | --- | --- |
-| Emby | Emby 媒体服务器 | 51 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/Emby) |
+| Emby | Emby 媒体服务器 | 54 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/Emby) |
 | EmbyProxy | 需要走代理的 Emby 服务器 | 14 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/EmbyProxy) |
 | okx | OKX 交易所 | 14 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/okx) |
 | bybit | Bybit 交易所 | 9 | [raw](https://raw.githubusercontent.com/AT-MA/fenliu/main/bybit) |
