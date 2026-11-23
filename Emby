@@ -52,3 +52,42 @@ host-suffix,pianku.online,Emby
 host-suffix,svip.czzyplay.com,Emby
 host-suffix,jimxtc.com,Emby
 host-suffix,ffzy-online6.com,Emby
+# 红果、抖音及弹幕
+host-suffix,fqnovel.com,Emby
+host-suffix,snssdk.com,Emby
+host-suffix,amemv.com,Emby
+host-suffix,douyin.com,Emby
+host-suffix,iesdouyin.com,Emby
+host-suffix,douyinvod.com,Emby
+host-suffix,douyinpic.com,Emby
+host-suffix,byteimg.com,Emby
+host-suffix,fqnovelpic.com,Emby
+host-suffix,bytegecko.com,Emby
+host-suffix,bytednsdoc.com,Emby
+# 七猫
+host-suffix,qmplaylet.com,Emby
+host-suffix,wtzw.com,Emby
+# 星芽
+host-suffix,whjzjx.cn,Emby
+host-suffix,shytkjgs.com,Emby
+host-suffix,xingya.com.cn,Emby
+host-suffix,rongjuwh.cn,Emby
+# 喜番
+host-suffix,kuaishou.com,Emby
+host-suffix,adukwai.com,Emby
+# 河马
+host-suffix,zqqds.cn,Emby
+host-suffix,kuaikaw.cn,Emby
+host-suffix,cbread.cn,Emby
+# 火龙及弹幕
+host-suffix,kairos.qq.com,Emby
+host-suffix,video.qq.com,Emby
+host-suffix,manju.v.qq.com,Emby
+host-suffix,tc.qq.com,Emby
+host-suffix,qpic.cn,Emby
+# 好看、柚漫剧
+host,sv.baidu.com,Emby
+host,yo.baidu.com,Emby
+host-suffix,bdstatic.com,Emby
+# 围观
+host-suffix,9ddm.com,Emby
